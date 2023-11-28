@@ -1,0 +1,1 @@
+C:\Users\m0mon\InventoryManagement\InventoryBrowser.Maui\InventoryBrowser.Maui.csproj;x64

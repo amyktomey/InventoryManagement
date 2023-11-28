@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\InventoryBrowser.Maui.props" />
+</Project>
