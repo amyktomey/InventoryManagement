@@ -1,5 +1,5 @@
-﻿using Microsoft.Extensions.Logging;
-using InventoryBrowser.Maui.Data;
+﻿using InventoryBrowser.Maui.Data;
+using Microsoft.Extensions.Logging;
 
 namespace InventoryBrowser.Maui;
 
@@ -22,7 +22,7 @@ public static class MauiProgram
 		builder.Logging.AddDebug();
 #endif
 
-		builder.Services.AddSingleton<WeatherForecastService>();
+		builder.Services.AddTransient<IProductList, ProductList>();
 
 		return builder.Build();
 	}

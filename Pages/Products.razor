@@ -1,0 +1,44 @@
+﻿@page "/products"
+@inject IProductList ProductList
+
+<h1>Products</h1>
+
+if(products is null)
+{
+<span>Loading...</span>
+}
+else
+{
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Type</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th>Quantity</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in products)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@product.Type</td>
+                <td>@product.Description</td>
+                <td>@product.Price</td>
+                <td>@product.Quantity</td>
+            </tr>
+        }
+    </tbody>
+</table>
+}
+
+@code {
+    private IEnumerable<Product> products = null;
+
+    protected override async Task OnInitializedAsync()
+    {
+        products = await ProductList.LoadProductsAsync();
+    }
+}
