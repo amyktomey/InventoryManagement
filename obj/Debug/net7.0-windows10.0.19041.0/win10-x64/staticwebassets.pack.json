@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\InventoryBrowser.Maui.styles.css"
     },
     {
+      "Id": "C:\\Users\\m0mon\\InventoryManagement\\InventoryBrowser.Maui\\wwwroot\\InventoryList.json",
+      "PackagePath": "staticwebassets\\InventoryList.json"
+    },
+    {
       "Id": "C:\\Users\\m0mon\\InventoryManagement\\InventoryBrowser.Maui\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },

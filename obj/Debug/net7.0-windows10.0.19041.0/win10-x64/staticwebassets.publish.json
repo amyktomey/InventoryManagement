@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mVbDhCxrY4ZzAhYhBMZ3wkbeqW4DefGf8DlbYx5uaM0=",
+  "Hash": "KqaMEe9HGihDGOz/1e0iXsmOYtwqNa2fd+f+yv+5Fac=",
   "Source": "InventoryBrowser.Maui",
   "BasePath": "/",
   "Mode": "Root",
@@ -287,6 +287,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\m0mon\\InventoryManagement\\InventoryBrowser.Maui\\wwwroot\\InventoryList.json",
+      "SourceId": "InventoryBrowser.Maui",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\m0mon\\InventoryManagement\\InventoryBrowser.Maui\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "InventoryList.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\InventoryList.json"
     },
     {
       "Identity": "C:\\Users\\m0mon\\InventoryManagement\\InventoryBrowser.Maui\\wwwroot\\logo.png",

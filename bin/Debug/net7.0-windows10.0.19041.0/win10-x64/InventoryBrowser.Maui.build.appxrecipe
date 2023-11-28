@@ -802,6 +802,9 @@
     <AppxPackagedFile Include="C:\Users\m0mon\InventoryManagement\InventoryBrowser.Maui\wwwroot\index.html">
       <PackagePath>wwwroot\index.html</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\InventoryManagement\InventoryBrowser.Maui\wwwroot\InventoryList.json">
+      <PackagePath>wwwroot\InventoryList.json</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\InventoryManagement\InventoryBrowser.Maui\wwwroot\logo.png">
       <PackagePath>wwwroot\logo.png</PackagePath>
     </AppxPackagedFile>
