@@ -113,7 +113,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
+      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authorization": "7.0.0",
@@ -493,7 +493,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.86": {
+      "Microsoft.Maui.Graphics/7.0.92": {
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
@@ -2404,7 +2404,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
+      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authorization": "7.0.0",
@@ -2784,7 +2784,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.86": {
+      "Microsoft.Maui.Graphics/7.0.92": {
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
@@ -4689,7 +4689,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
+      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authorization": "7.0.0",
@@ -5069,7 +5069,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.86": {
+      "Microsoft.Maui.Graphics/7.0.92": {
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
@@ -6974,7 +6974,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
+      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authorization": "7.0.0",
@@ -7354,7 +7354,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.86": {
+      "Microsoft.Maui.Graphics/7.0.92": {
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
@@ -9259,7 +9259,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
+      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authorization": "7.0.0",
@@ -9639,7 +9639,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.86": {
+      "Microsoft.Maui.Graphics/7.0.92": {
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
@@ -11544,7 +11544,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
+      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authorization": "7.0.0",
@@ -11924,7 +11924,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.86": {
+      "Microsoft.Maui.Graphics/7.0.92": {
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
@@ -13829,7 +13829,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
+      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authorization": "7.0.0",
@@ -14209,7 +14209,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.86": {
+      "Microsoft.Maui.Graphics/7.0.92": {
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
@@ -16114,7 +16114,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
+      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authorization": "7.0.0",
@@ -16494,7 +16494,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.86": {
+      "Microsoft.Maui.Graphics/7.0.92": {
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
@@ -18386,7 +18386,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
+      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authorization": "7.0.0",
@@ -18766,7 +18766,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.86": {
+      "Microsoft.Maui.Graphics/7.0.92": {
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
@@ -18936,7 +18936,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
+      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authorization": "7.0.0",
@@ -19316,7 +19316,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.86": {
+      "Microsoft.Maui.Graphics/7.0.92": {
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
@@ -19480,7 +19480,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
+      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authorization": "7.0.0",
@@ -19860,7 +19860,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.86": {
+      "Microsoft.Maui.Graphics/7.0.92": {
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
@@ -20024,7 +20024,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
+      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authorization": "7.0.0",
@@ -20404,7 +20404,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.86": {
+      "Microsoft.Maui.Graphics/7.0.92": {
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
@@ -20568,7 +20568,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
+      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authorization": "7.0.0",
@@ -20948,7 +20948,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.86": {
+      "Microsoft.Maui.Graphics/7.0.92": {
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
@@ -21112,7 +21112,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
+      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authorization": "7.0.0",
@@ -21492,7 +21492,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.86": {
+      "Microsoft.Maui.Graphics/7.0.92": {
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
@@ -21656,7 +21656,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
+      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authorization": "7.0.0",
@@ -22036,7 +22036,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.86": {
+      "Microsoft.Maui.Graphics/7.0.92": {
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
@@ -22200,7 +22200,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
+      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authorization": "7.0.0",
@@ -22580,7 +22580,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.86": {
+      "Microsoft.Maui.Graphics/7.0.92": {
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
@@ -22744,7 +22744,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
+      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authorization": "7.0.0",
@@ -23124,7 +23124,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.86": {
+      "Microsoft.Maui.Graphics/7.0.92": {
         "type": "package",
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
@@ -23294,7 +23294,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
+      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authorization": "7.0.0",
@@ -23674,7 +23674,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.86": {
+      "Microsoft.Maui.Graphics/7.0.92": {
         "type": "package",
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
@@ -23838,7 +23838,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
+      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authorization": "7.0.0",
@@ -24218,7 +24218,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.86": {
+      "Microsoft.Maui.Graphics/7.0.92": {
         "type": "package",
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
@@ -24382,7 +24382,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
+      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authorization": "7.0.0",
@@ -24762,7 +24762,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.86": {
+      "Microsoft.Maui.Graphics/7.0.92": {
         "type": "package",
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
@@ -24926,7 +24926,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
+      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authorization": "7.0.0",
@@ -25306,7 +25306,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.86": {
+      "Microsoft.Maui.Graphics/7.0.92": {
         "type": "package",
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
@@ -25470,7 +25470,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
+      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authorization": "7.0.0",
@@ -25850,7 +25850,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.86": {
+      "Microsoft.Maui.Graphics/7.0.92": {
         "type": "package",
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
@@ -26014,7 +26014,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
+      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authorization": "7.0.0",
@@ -26394,7 +26394,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.86": {
+      "Microsoft.Maui.Graphics/7.0.92": {
         "type": "package",
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
@@ -26558,7 +26558,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
+      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authorization": "7.0.0",
@@ -26938,7 +26938,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.86": {
+      "Microsoft.Maui.Graphics/7.0.92": {
         "type": "package",
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
@@ -27102,7 +27102,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
+      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authorization": "7.0.0",
@@ -27469,7 +27469,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Graphics.Win2D/1.0.4": {
+      "Microsoft.Graphics.Win2D/1.0.5.1": {
         "type": "package",
         "dependencies": {
           "Microsoft.WindowsAppSDK": "1.0.4"
@@ -27511,7 +27511,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.86": {
+      "Microsoft.Maui.Graphics/7.0.92": {
         "type": "package",
         "compile": {
           "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
@@ -27524,11 +27524,12 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.86": {
+      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.92": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Graphics.Win2D": "1.0.4",
-          "Microsoft.Maui.Graphics": "7.0.86",
+          "Microsoft.Graphics.Win2D": "1.0.5.1",
+          "Microsoft.Maui.Graphics": "7.0.92",
+          "Microsoft.Windows.SDK.BuildTools": "10.0.22621.756",
           "Microsoft.WindowsAppSDK": "1.2.221209.1"
         },
         "compile": {
@@ -27542,11 +27543,11 @@
           }
         }
       },
-      "Microsoft.Windows.SDK.BuildTools/10.0.22621.755": {
+      "Microsoft.Windows.SDK.BuildTools/10.0.22621.756": {
         "type": "package",
         "build": {
-          "build/Microsoft.Windows.SDK.BuildTools.props": {},
-          "build/Microsoft.Windows.SDK.BuildTools.targets": {}
+          "buildTransitive/Microsoft.Windows.SDK.BuildTools.props": {},
+          "buildTransitive/Microsoft.Windows.SDK.BuildTools.targets": {}
         }
       },
       "Microsoft.WindowsAppSDK/1.2.221209.1": {
@@ -27790,7 +27791,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
+      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authorization": "7.0.0",
@@ -28157,7 +28158,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Graphics.Win2D/1.0.4": {
+      "Microsoft.Graphics.Win2D/1.0.5.1": {
         "type": "package",
         "dependencies": {
           "Microsoft.WindowsAppSDK": "1.0.4"
@@ -28185,7 +28186,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.86": {
+      "Microsoft.Maui.Graphics/7.0.92": {
         "type": "package",
         "compile": {
           "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
@@ -28198,11 +28199,12 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.86": {
+      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.92": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Graphics.Win2D": "1.0.4",
-          "Microsoft.Maui.Graphics": "7.0.86",
+          "Microsoft.Graphics.Win2D": "1.0.5.1",
+          "Microsoft.Maui.Graphics": "7.0.92",
+          "Microsoft.Windows.SDK.BuildTools": "10.0.22621.756",
           "Microsoft.WindowsAppSDK": "1.2.221209.1"
         },
         "compile": {
@@ -28216,11 +28218,11 @@
           }
         }
       },
-      "Microsoft.Windows.SDK.BuildTools/10.0.22621.755": {
+      "Microsoft.Windows.SDK.BuildTools/10.0.22621.756": {
         "type": "package",
         "build": {
-          "build/Microsoft.Windows.SDK.BuildTools.props": {},
-          "build/Microsoft.Windows.SDK.BuildTools.targets": {}
+          "buildTransitive/Microsoft.Windows.SDK.BuildTools.props": {},
+          "buildTransitive/Microsoft.Windows.SDK.BuildTools.targets": {}
         }
       },
       "Microsoft.WindowsAppSDK/1.2.221209.1": {
@@ -28444,7 +28446,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
+      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authorization": "7.0.0",
@@ -28811,7 +28813,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Graphics.Win2D/1.0.4": {
+      "Microsoft.Graphics.Win2D/1.0.5.1": {
         "type": "package",
         "dependencies": {
           "Microsoft.WindowsAppSDK": "1.0.4"
@@ -28839,7 +28841,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.86": {
+      "Microsoft.Maui.Graphics/7.0.92": {
         "type": "package",
         "compile": {
           "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
@@ -28852,11 +28854,12 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.86": {
+      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.92": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Graphics.Win2D": "1.0.4",
-          "Microsoft.Maui.Graphics": "7.0.86",
+          "Microsoft.Graphics.Win2D": "1.0.5.1",
+          "Microsoft.Maui.Graphics": "7.0.92",
+          "Microsoft.Windows.SDK.BuildTools": "10.0.22621.756",
           "Microsoft.WindowsAppSDK": "1.2.221209.1"
         },
         "compile": {
@@ -28870,11 +28873,11 @@
           }
         }
       },
-      "Microsoft.Windows.SDK.BuildTools/10.0.22621.755": {
+      "Microsoft.Windows.SDK.BuildTools/10.0.22621.756": {
         "type": "package",
         "build": {
-          "build/Microsoft.Windows.SDK.BuildTools.props": {},
-          "build/Microsoft.Windows.SDK.BuildTools.targets": {}
+          "buildTransitive/Microsoft.Windows.SDK.BuildTools.props": {},
+          "buildTransitive/Microsoft.Windows.SDK.BuildTools.targets": {}
         }
       },
       "Microsoft.WindowsAppSDK/1.2.221209.1": {
@@ -29098,7 +29101,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
+      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authorization": "7.0.0",
@@ -29465,7 +29468,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Graphics.Win2D/1.0.4": {
+      "Microsoft.Graphics.Win2D/1.0.5.1": {
         "type": "package",
         "dependencies": {
           "Microsoft.WindowsAppSDK": "1.0.4"
@@ -29493,7 +29496,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.86": {
+      "Microsoft.Maui.Graphics/7.0.92": {
         "type": "package",
         "compile": {
           "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
@@ -29506,11 +29509,12 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.86": {
+      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.92": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Graphics.Win2D": "1.0.4",
-          "Microsoft.Maui.Graphics": "7.0.86",
+          "Microsoft.Graphics.Win2D": "1.0.5.1",
+          "Microsoft.Maui.Graphics": "7.0.92",
+          "Microsoft.Windows.SDK.BuildTools": "10.0.22621.756",
           "Microsoft.WindowsAppSDK": "1.2.221209.1"
         },
         "compile": {
@@ -29524,11 +29528,11 @@
           }
         }
       },
-      "Microsoft.Windows.SDK.BuildTools/10.0.22621.755": {
+      "Microsoft.Windows.SDK.BuildTools/10.0.22621.756": {
         "type": "package",
         "build": {
-          "build/Microsoft.Windows.SDK.BuildTools.props": {},
-          "build/Microsoft.Windows.SDK.BuildTools.targets": {}
+          "buildTransitive/Microsoft.Windows.SDK.BuildTools.props": {},
+          "buildTransitive/Microsoft.Windows.SDK.BuildTools.targets": {}
         }
       },
       "Microsoft.WindowsAppSDK/1.2.221209.1": {
@@ -29752,7 +29756,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
+      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authorization": "7.0.0",
@@ -30119,7 +30123,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Graphics.Win2D/1.0.4": {
+      "Microsoft.Graphics.Win2D/1.0.5.1": {
         "type": "package",
         "dependencies": {
           "Microsoft.WindowsAppSDK": "1.0.4"
@@ -30147,7 +30151,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.86": {
+      "Microsoft.Maui.Graphics/7.0.92": {
         "type": "package",
         "compile": {
           "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
@@ -30160,11 +30164,12 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.86": {
+      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.92": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Graphics.Win2D": "1.0.4",
-          "Microsoft.Maui.Graphics": "7.0.86",
+          "Microsoft.Graphics.Win2D": "1.0.5.1",
+          "Microsoft.Maui.Graphics": "7.0.92",
+          "Microsoft.Windows.SDK.BuildTools": "10.0.22621.756",
           "Microsoft.WindowsAppSDK": "1.2.221209.1"
         },
         "compile": {
@@ -30178,11 +30183,11 @@
           }
         }
       },
-      "Microsoft.Windows.SDK.BuildTools/10.0.22621.755": {
+      "Microsoft.Windows.SDK.BuildTools/10.0.22621.756": {
         "type": "package",
         "build": {
-          "build/Microsoft.Windows.SDK.BuildTools.props": {},
-          "build/Microsoft.Windows.SDK.BuildTools.targets": {}
+          "buildTransitive/Microsoft.Windows.SDK.BuildTools.props": {},
+          "buildTransitive/Microsoft.Windows.SDK.BuildTools.targets": {}
         }
       },
       "Microsoft.WindowsAppSDK/1.2.221209.1": {
@@ -30406,7 +30411,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
+      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authorization": "7.0.0",
@@ -30773,7 +30778,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Graphics.Win2D/1.0.4": {
+      "Microsoft.Graphics.Win2D/1.0.5.1": {
         "type": "package",
         "dependencies": {
           "Microsoft.WindowsAppSDK": "1.0.4"
@@ -30801,7 +30806,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.86": {
+      "Microsoft.Maui.Graphics/7.0.92": {
         "type": "package",
         "compile": {
           "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
@@ -30814,11 +30819,12 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.86": {
+      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.92": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Graphics.Win2D": "1.0.4",
-          "Microsoft.Maui.Graphics": "7.0.86",
+          "Microsoft.Graphics.Win2D": "1.0.5.1",
+          "Microsoft.Maui.Graphics": "7.0.92",
+          "Microsoft.Windows.SDK.BuildTools": "10.0.22621.756",
           "Microsoft.WindowsAppSDK": "1.2.221209.1"
         },
         "compile": {
@@ -30832,11 +30838,11 @@
           }
         }
       },
-      "Microsoft.Windows.SDK.BuildTools/10.0.22621.755": {
+      "Microsoft.Windows.SDK.BuildTools/10.0.22621.756": {
         "type": "package",
         "build": {
-          "build/Microsoft.Windows.SDK.BuildTools.props": {},
-          "build/Microsoft.Windows.SDK.BuildTools.targets": {}
+          "buildTransitive/Microsoft.Windows.SDK.BuildTools.props": {},
+          "buildTransitive/Microsoft.Windows.SDK.BuildTools.targets": {}
         }
       },
       "Microsoft.WindowsAppSDK/1.2.221209.1": {
@@ -31060,7 +31066,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
+      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authorization": "7.0.0",
@@ -31427,7 +31433,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Graphics.Win2D/1.0.4": {
+      "Microsoft.Graphics.Win2D/1.0.5.1": {
         "type": "package",
         "dependencies": {
           "Microsoft.WindowsAppSDK": "1.0.4"
@@ -31455,7 +31461,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.86": {
+      "Microsoft.Maui.Graphics/7.0.92": {
         "type": "package",
         "compile": {
           "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
@@ -31468,11 +31474,12 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.86": {
+      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.92": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Graphics.Win2D": "1.0.4",
-          "Microsoft.Maui.Graphics": "7.0.86",
+          "Microsoft.Graphics.Win2D": "1.0.5.1",
+          "Microsoft.Maui.Graphics": "7.0.92",
+          "Microsoft.Windows.SDK.BuildTools": "10.0.22621.756",
           "Microsoft.WindowsAppSDK": "1.2.221209.1"
         },
         "compile": {
@@ -31486,11 +31493,11 @@
           }
         }
       },
-      "Microsoft.Windows.SDK.BuildTools/10.0.22621.755": {
+      "Microsoft.Windows.SDK.BuildTools/10.0.22621.756": {
         "type": "package",
         "build": {
-          "build/Microsoft.Windows.SDK.BuildTools.props": {},
-          "build/Microsoft.Windows.SDK.BuildTools.targets": {}
+          "buildTransitive/Microsoft.Windows.SDK.BuildTools.props": {},
+          "buildTransitive/Microsoft.Windows.SDK.BuildTools.targets": {}
         }
       },
       "Microsoft.WindowsAppSDK/1.2.221209.1": {
@@ -31714,7 +31721,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
+      "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Authorization": "7.0.0",
@@ -32081,7 +32088,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Graphics.Win2D/1.0.4": {
+      "Microsoft.Graphics.Win2D/1.0.5.1": {
         "type": "package",
         "dependencies": {
           "Microsoft.WindowsAppSDK": "1.0.4"
@@ -32112,7 +32119,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.86": {
+      "Microsoft.Maui.Graphics/7.0.92": {
         "type": "package",
         "compile": {
           "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
@@ -32125,11 +32132,12 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.86": {
+      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.92": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Graphics.Win2D": "1.0.4",
-          "Microsoft.Maui.Graphics": "7.0.86",
+          "Microsoft.Graphics.Win2D": "1.0.5.1",
+          "Microsoft.Maui.Graphics": "7.0.92",
+          "Microsoft.Windows.SDK.BuildTools": "10.0.22621.756",
           "Microsoft.WindowsAppSDK": "1.2.221209.1"
         },
         "compile": {
@@ -32143,11 +32151,11 @@
           }
         }
       },
-      "Microsoft.Windows.SDK.BuildTools/10.0.22621.755": {
+      "Microsoft.Windows.SDK.BuildTools/10.0.22621.756": {
         "type": "package",
         "build": {
-          "build/Microsoft.Windows.SDK.BuildTools.props": {},
-          "build/Microsoft.Windows.SDK.BuildTools.targets": {}
+          "buildTransitive/Microsoft.Windows.SDK.BuildTools.props": {},
+          "buildTransitive/Microsoft.Windows.SDK.BuildTools.targets": {}
         }
       },
       "Microsoft.WindowsAppSDK/1.2.221209.1": {
@@ -32391,10 +32399,10 @@
         "microsoft.aspnetcore.components.webview.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.Components.WebView.Maui/7.0.86": {
-      "sha512": "a3FbXd2FOGq8q/jfj9KPmNwYaEQ+j02gy9xI1f7a7GncPRpvHu+pPQvChnHzjMaN1dZyczDwB8K7H5tI7zDNdg==",
+    "Microsoft.AspNetCore.Components.WebView.Maui/7.0.92": {
+      "sha512": "VsZEU0jAjQhcrZYLFkvpL4clCy41V3OW2ShBJd94ERS1CkjhOQGE9c1lRtgoOCaK/tq6o2U0sELuTFLwqSqiEg==",
       "type": "package",
-      "path": "microsoft.aspnetcore.components.webview.maui/7.0.86",
+      "path": "microsoft.aspnetcore.components.webview.maui/7.0.92",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -32424,7 +32432,7 @@
         "lib/net7.0/Microsoft.AspNetCore.Components.WebView.Maui.dll",
         "lib/net7.0/Microsoft.AspNetCore.Components.WebView.Maui.pdb",
         "lib/net7.0/Microsoft.AspNetCore.Components.WebView.Maui.xml",
-        "microsoft.aspnetcore.components.webview.maui.7.0.86.nupkg.sha512",
+        "microsoft.aspnetcore.components.webview.maui.7.0.92.nupkg.sha512",
         "microsoft.aspnetcore.components.webview.maui.nuspec"
       ]
     },
@@ -32955,10 +32963,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Graphics.Win2D/1.0.4": {
-      "sha512": "PmUO0B+gLdbxy1XCmX6pS57SL08roPKZC3sXKSRH4Qa1nX5RKwIdmmIxSvmV9irN57ABSMtDtWa+qNYnyzB/nw==",
+    "Microsoft.Graphics.Win2D/1.0.5.1": {
+      "sha512": "9DVEVvyQWWz8kqhsFBAx9Zv4KRIAcmxuT7kFpK1Fgh6czSiMB+CQW0DlhZXT44Mtv41FRXG47lhEv+7a2YyiLA==",
       "type": "package",
-      "path": "microsoft.graphics.win2d/1.0.4",
+      "path": "microsoft.graphics.win2d/1.0.5.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -32978,7 +32986,7 @@
         "lib/net5.0-windows10.0.17763.0/Microsoft.Graphics.Canvas.Interop.dll",
         "lib/netcoreapp3.0/Microsoft.Graphics.Canvas.winmd",
         "lib/uap10.0/Microsoft.Graphics.Canvas.winmd",
-        "microsoft.graphics.win2d.1.0.4.nupkg.sha512",
+        "microsoft.graphics.win2d.1.0.5.1.nupkg.sha512",
         "microsoft.graphics.win2d.nuspec",
         "runtimes/win10-arm64/native/Microsoft.Graphics.Canvas.dll",
         "runtimes/win10-x64/native/Microsoft.Graphics.Canvas.dll",
@@ -33000,10 +33008,10 @@
         "microsoft.jsinterop.nuspec"
       ]
     },
-    "Microsoft.Maui.Graphics/7.0.86": {
-      "sha512": "v0VB9NhVrJarOzl7BHs2LaFQE+syKQ8o1Wbs+I4CGxmQO4cosmoFPUa0ogp1oaJe8Tazu504+P8JDy8fhDsSKQ==",
+    "Microsoft.Maui.Graphics/7.0.92": {
+      "sha512": "fe9pKhm5LZGsAbEZQg7VEHGer76h8m8VPkGRWJ4P0+3QMu3yXOYmOiA60Wskjk8Mrd6eXZCQUWTTeley1agYQg==",
       "type": "package",
-      "path": "microsoft.maui.graphics/7.0.86",
+      "path": "microsoft.maui.graphics/7.0.92",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -33039,14 +33047,14 @@
         "lib/netstandard2.1/Microsoft.Maui.Graphics.dll",
         "lib/netstandard2.1/Microsoft.Maui.Graphics.pdb",
         "lib/netstandard2.1/Microsoft.Maui.Graphics.xml",
-        "microsoft.maui.graphics.7.0.86.nupkg.sha512",
+        "microsoft.maui.graphics.7.0.92.nupkg.sha512",
         "microsoft.maui.graphics.nuspec"
       ]
     },
-    "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.86": {
-      "sha512": "o9nXvM81cu9PbdDBFcybMyM2hIgb0a8CLu3ZwD0cJrI01ujLoltwkqmlvOrVxgAwL9RvoLIjN51WFjPwvbPrkw==",
+    "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.92": {
+      "sha512": "4snL9nMCGIzZ6utx8T8X42k3TjaA1PZY7Mpr1/LFyvxanja4f+zWroierjBCciBNoz8Zb0RJEMxxpr16SUcRGw==",
       "type": "package",
-      "path": "microsoft.maui.graphics.win2d.winui.desktop/7.0.86",
+      "path": "microsoft.maui.graphics.win2d.winui.desktop/7.0.92",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -33056,14 +33064,14 @@
         "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.pdb",
         "lib/net7.0-windows10.0.20348/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll",
         "lib/net7.0-windows10.0.20348/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.pdb",
-        "microsoft.maui.graphics.win2d.winui.desktop.7.0.86.nupkg.sha512",
+        "microsoft.maui.graphics.win2d.winui.desktop.7.0.92.nupkg.sha512",
         "microsoft.maui.graphics.win2d.winui.desktop.nuspec"
       ]
     },
-    "Microsoft.Windows.SDK.BuildTools/10.0.22621.755": {
-      "sha512": "zGXDCZc2/slVjpNtopNETCjnOqH9KiEdo9dPCcjtNWwK5W+EmOcEn7X5Ftj3tOE9kLvroga1s7WwLh2a5jQEEg==",
+    "Microsoft.Windows.SDK.BuildTools/10.0.22621.756": {
+      "sha512": "7ZL2sFSioYm1Ry067Kw1hg0SCcW5kuVezC2SwjGbcPE61Nn+gTbH86T73G3LcEOVj0S3IZzNuE/29gZvOLS7VA==",
       "type": "package",
-      "path": "microsoft.windows.sdk.buildtools/10.0.22621.755",
+      "path": "microsoft.windows.sdk.buildtools/10.0.22621.756",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -33230,7 +33238,9 @@
         "bin/10.0.22621.0/x86/wintrust.dll.ini",
         "build/Microsoft.Windows.SDK.BuildTools.props",
         "build/Microsoft.Windows.SDK.BuildTools.targets",
-        "microsoft.windows.sdk.buildtools.10.0.22621.755.nupkg.sha512",
+        "buildTransitive/Microsoft.Windows.SDK.BuildTools.props",
+        "buildTransitive/Microsoft.Windows.SDK.BuildTools.targets",
+        "microsoft.windows.sdk.buildtools.10.0.22621.756.nupkg.sha512",
         "microsoft.windows.sdk.buildtools.nuspec",
         "schemas/10.0.22621.0/winrt/AppxManifestSchema.xsd",
         "schemas/10.0.22621.0/winrt/AppxManifestSchema2010_v2.xsd",
@@ -36020,13 +36030,13 @@
   },
   "projectFileDependencyGroups": {
     "net7.0-android33.0": [
-      "Microsoft.AspNetCore.Components.WebView.Maui >= 7.0.86",
+      "Microsoft.AspNetCore.Components.WebView.Maui >= 7.0.92",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
       "Microsoft.Extensions.Logging.Abstractions >= 7.0.0",
       "Microsoft.Extensions.Logging.Debug >= 7.0.0",
-      "Microsoft.Maui.Graphics >= 7.0.86",
+      "Microsoft.Maui.Graphics >= 7.0.92",
       "Xamarin.Android.Glide >= 4.13.2.2",
       "Xamarin.AndroidX.Browser >= 1.4.0.3",
       "Xamarin.AndroidX.Legacy.Support.V4 >= 1.0.0.15",
@@ -36040,33 +36050,32 @@
       "Xamarin.Google.Crypto.Tink.Android >= 1.7.0.1"
     ],
     "net7.0-ios16.1": [
-      "Microsoft.AspNetCore.Components.WebView.Maui >= 7.0.86",
+      "Microsoft.AspNetCore.Components.WebView.Maui >= 7.0.92",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
       "Microsoft.Extensions.Logging.Abstractions >= 7.0.0",
       "Microsoft.Extensions.Logging.Debug >= 7.0.0",
-      "Microsoft.Maui.Graphics >= 7.0.86"
+      "Microsoft.Maui.Graphics >= 7.0.92"
     ],
     "net7.0-maccatalyst16.1": [
-      "Microsoft.AspNetCore.Components.WebView.Maui >= 7.0.86",
+      "Microsoft.AspNetCore.Components.WebView.Maui >= 7.0.92",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
       "Microsoft.Extensions.Logging.Abstractions >= 7.0.0",
       "Microsoft.Extensions.Logging.Debug >= 7.0.0",
-      "Microsoft.Maui.Graphics >= 7.0.86"
+      "Microsoft.Maui.Graphics >= 7.0.92"
     ],
     "net7.0-windows10.0.19041": [
-      "Microsoft.AspNetCore.Components.WebView.Maui >= 7.0.86",
+      "Microsoft.AspNetCore.Components.WebView.Maui >= 7.0.92",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
       "Microsoft.Extensions.Logging.Abstractions >= 7.0.0",
       "Microsoft.Extensions.Logging.Debug >= 7.0.0",
-      "Microsoft.Maui.Graphics >= 7.0.86",
-      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop >= 7.0.86",
-      "Microsoft.Windows.SDK.BuildTools >= 10.0.22621.755",
+      "Microsoft.Maui.Graphics >= 7.0.92",
+      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop >= 7.0.92",
       "Microsoft.WindowsAppSDK >= 1.2.221209.1"
     ]
   },
@@ -36132,7 +36141,7 @@
         "dependencies": {
           "Microsoft.AspNetCore.Components.WebView.Maui": {
             "target": "Package",
-            "version": "[7.0.86, )",
+            "version": "[7.0.92, )",
             "autoReferenced": true
           },
           "Microsoft.Extensions.Configuration": {
@@ -36161,7 +36170,7 @@
           },
           "Microsoft.Maui.Graphics": {
             "target": "Package",
-            "version": "[7.0.86, )",
+            "version": "[7.0.92, )",
             "autoReferenced": true
           },
           "Xamarin.Android.Glide": {
@@ -36255,7 +36264,7 @@
         "dependencies": {
           "Microsoft.AspNetCore.Components.WebView.Maui": {
             "target": "Package",
-            "version": "[7.0.86, )",
+            "version": "[7.0.92, )",
             "autoReferenced": true
           },
           "Microsoft.Extensions.Configuration": {
@@ -36284,7 +36293,7 @@
           },
           "Microsoft.Maui.Graphics": {
             "target": "Package",
-            "version": "[7.0.86, )",
+            "version": "[7.0.92, )",
             "autoReferenced": true
           }
         },
@@ -36323,7 +36332,7 @@
         "dependencies": {
           "Microsoft.AspNetCore.Components.WebView.Maui": {
             "target": "Package",
-            "version": "[7.0.86, )",
+            "version": "[7.0.92, )",
             "autoReferenced": true
           },
           "Microsoft.Extensions.Configuration": {
@@ -36352,7 +36361,7 @@
           },
           "Microsoft.Maui.Graphics": {
             "target": "Package",
-            "version": "[7.0.86, )",
+            "version": "[7.0.92, )",
             "autoReferenced": true
           }
         },
@@ -36392,7 +36401,7 @@
         "dependencies": {
           "Microsoft.AspNetCore.Components.WebView.Maui": {
             "target": "Package",
-            "version": "[7.0.86, )",
+            "version": "[7.0.92, )",
             "autoReferenced": true
           },
           "Microsoft.Extensions.Configuration": {
@@ -36421,18 +36430,12 @@
           },
           "Microsoft.Maui.Graphics": {
             "target": "Package",
-            "version": "[7.0.86, )",
+            "version": "[7.0.92, )",
             "autoReferenced": true
           },
           "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop": {
             "target": "Package",
-            "version": "[7.0.86, )",
-            "autoReferenced": true
-          },
-          "Microsoft.Windows.SDK.BuildTools": {
-            "suppressParent": "All",
-            "target": "Package",
-            "version": "[10.0.22621.755, )",
+            "version": "[7.0.92, )",
             "autoReferenced": true
           },
           "Microsoft.WindowsAppSDK": {
@@ -36456,6 +36459,30 @@
           {
             "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
             "version": "[7.0.9, 7.0.9]"
+          },
+          {
+            "name": "Microsoft.Maui.Controls.Ref.win",
+            "version": "[7.0.92, 7.0.92]"
+          },
+          {
+            "name": "Microsoft.Maui.Controls.Runtime.win",
+            "version": "[7.0.92, 7.0.92]"
+          },
+          {
+            "name": "Microsoft.Maui.Core.Ref.win",
+            "version": "[7.0.92, 7.0.92]"
+          },
+          {
+            "name": "Microsoft.Maui.Core.Runtime.win",
+            "version": "[7.0.92, 7.0.92]"
+          },
+          {
+            "name": "Microsoft.Maui.Essentials.Ref.win",
+            "version": "[7.0.92, 7.0.92]"
+          },
+          {
+            "name": "Microsoft.Maui.Essentials.Runtime.win",
+            "version": "[7.0.92, 7.0.92]"
           },
           {
             "name": "Microsoft.NETCore.App.Runtime.win-x64",

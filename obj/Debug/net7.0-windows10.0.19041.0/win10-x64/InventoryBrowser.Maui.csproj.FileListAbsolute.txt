@@ -323,6 +323,7 @@ C:\Users\m0mon\InventoryManagement\InventoryBrowser.Maui\obj\Debug\net7.0-window
 C:\Users\m0mon\InventoryManagement\InventoryBrowser.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
 C:\Users\m0mon\InventoryManagement\InventoryBrowser.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
 C:\Users\m0mon\InventoryManagement\InventoryBrowser.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\Users\m0mon\InventoryManagement\InventoryBrowser.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-100.png
 C:\Users\m0mon\InventoryManagement\InventoryBrowser.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
 C:\Users\m0mon\InventoryManagement\InventoryBrowser.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\InventoryBrowser.Maui.AssemblyInfoInputs.cache
 C:\Users\m0mon\InventoryManagement\InventoryBrowser.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\InventoryBrowser.Maui.AssemblyInfo.cs
@@ -350,4 +351,3 @@ C:\Users\m0mon\InventoryManagement\InventoryBrowser.Maui\obj\Debug\net7.0-window
 C:\Users\m0mon\InventoryManagement\InventoryBrowser.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\m0mon\InventoryManagement\InventoryBrowser.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\m0mon\InventoryManagement\InventoryBrowser.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
-C:\Users\m0mon\InventoryManagement\InventoryBrowser.Maui\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-100.png

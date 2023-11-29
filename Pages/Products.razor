@@ -1,5 +1,5 @@
 ﻿@page "/products"
-@inject IProductList ProductList
+@*@inject IProductList ProductList*@
 
 <h1>Products</h1>
 
@@ -35,10 +35,11 @@ else
 }
 
 @code {
-    private IEnumerable<Product>? products = null;
+    private IEnumerable<Product> products = new List<Product>();
 
     protected override async Task OnInitializedAsync()
     {
-        products = await ProductList.LoadProductsAsync();
+        ProductList productList = new ProductList();
+        products = await productList.LoadProductsAsync();
     }
 }

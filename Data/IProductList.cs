@@ -2,5 +2,5 @@
 
 public interface IProductList
 {
-    Task<IEnumerable<Product>?> LoadProductsAsync();
+    Task<IEnumerable<Product>> LoadProductsAsync();
 }

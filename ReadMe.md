@@ -10,24 +10,24 @@ Getting Starteed:
 HOW TO RUN THE PROJECT HERE!
 
 Required:
- [ ]Visual Appeal:
-	[ ]	Design your project to be visually appealing; follow industry trends.
-	[ ]	Aim to create projects that employers find attractive and engaging.
-	[ ]	Select a color palette and font stack to enhance design consistency.
+ Visual Appeal:
+	[X]	Design your project to be visually appealing; follow industry trends.
+	[X]	Aim to create projects that employers find attractive and engaging.
+	[X]	Select a color palette and font stack to enhance design consistency.
 
-[ ]Database Interaction:
-	[ ]Develop at least one class (excluding the default class in a new project),
+Database Interaction:
+	[X]Develop at least one class (excluding the default class in a new project),
 create an object of that class, populate it with data from a database, and incorporate the data in
 your application. A minimum of 1 table (entity) should be utilized. Note that classes should be
 created even when using object relational mappers like Entity Framework.
 
-[ ]Functions/Methods: 
-Create and utilize a minimum of 3 functions or methods, with at least one
+Functions/Methods: 
+[  ] Create and utilize a minimum of 3 functions or methods, with at least one
 returning a value integral to your application.
 
 Features:  ** Use THREE of these**
 
-[ ]Create a dictionary or list, populate it with several values, retrieve at least one value, and use it in your program
+[x]Create a dictionary or list, populate it with several values, retrieve at least one value, and use it in your program
 
 [ ]Make a generic class and use it
 
