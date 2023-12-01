@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OgEv/81we17kkYJNPs8UqRGi4VdROMe921tlHPeziEA=",
+  "Hash": "XF7uVWn1Ki//8TKforO1oCZ2BmyvWFFGqr77UF4e2U8=",
   "Source": "InventoryBrowser.Maui",
   "BasePath": "/",
   "Mode": "Root",
@@ -119,23 +119,6 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\m0mon\\CapstoneC#2023\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
-      "SourceId": "InventoryBrowser.Maui",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\m0mon\\CapstoneC#2023\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "css/open-iconic/FONT-LICENSE",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
-    },
-    {
       "Identity": "C:\\Users\\m0mon\\CapstoneC#2023\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "InventoryBrowser.Maui",
       "SourceType": "Discovered",
@@ -236,6 +219,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Identity": "C:\\Users\\m0mon\\CapstoneC#2023\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "SourceId": "InventoryBrowser.Maui",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\m0mon\\CapstoneC#2023\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/open-iconic/FONT-LICENSE",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
       "Identity": "C:\\Users\\m0mon\\CapstoneC#2023\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
