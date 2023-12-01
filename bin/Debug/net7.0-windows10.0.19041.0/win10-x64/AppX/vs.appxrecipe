@@ -29,29 +29,41 @@
     <AppXManifest Include="C:\Users\m0mon\CapstoneC#2023\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-11-30T04:47:11.489</Modified>
+      <Modified>2023-11-30T23:53:52.936</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-11-30T04:47:10.849</Modified>
+      <Modified>2023-11-30T23:53:51.432</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\InventoryBrowser.Maui.runtimeconfig.json">
       <PackagePath>InventoryBrowser.Maui.runtimeconfig.json</PackagePath>
-      <Modified>2023-11-30T04:47:10.466</Modified>
+      <Modified>2023-11-30T23:53:50.757</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\InventoryBrowser.Maui.dll">
       <PackagePath>InventoryBrowser.Maui.dll</PackagePath>
-      <Modified>2023-11-30T04:47:08.137</Modified>
+      <Modified>2023-11-30T23:53:47.244</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>InventoryBrowser.Maui.exe</PackagePath>
-      <Modified>2023-11-30T04:47:08.194</Modified>
+      <Modified>2023-11-30T23:53:47.453</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\InventoryBrowser.Maui.deps.json">
-      <PackagePath>InventoryBrowser.Maui.deps.json</PackagePath>
-      <Modified>2023-11-30T04:47:10.311</Modified>
+    <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\InventoryLibrary\bin\Debug\net7.0\InventoryLibrary.deps.json">
+      <PackagePath>InventoryLibrary\bin\Debug\net7.0\InventoryLibrary.deps.json</PackagePath>
+      <Modified>2023-11-30T23:51:41.456</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\InventoryLibrary\bin\Debug\net7.0\InventoryLibrary.runtimeconfig.json">
+      <PackagePath>InventoryLibrary\bin\Debug\net7.0\InventoryLibrary.runtimeconfig.json</PackagePath>
+      <Modified>2023-11-30T23:51:42.032</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\InventoryLibrary\obj\InventoryLibrary.csproj.nuget.dgspec.json">
+      <PackagePath>InventoryLibrary\obj\InventoryLibrary.csproj.nuget.dgspec.json</PackagePath>
+      <Modified>2023-11-30T23:50:38.294</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\InventoryLibrary\obj\project.assets.json">
+      <PackagePath>InventoryLibrary\obj\project.assets.json</PackagePath>
+      <Modified>2023-11-30T23:50:38.279</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -837,6 +849,34 @@
       <PackagePath>Microsoft.AspNetCore.Metadata.dll</PackagePath>
       <Modified>2022-10-19T06:09:02.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\microsoft.data.sqlite.core\7.0.14\lib\net6.0\Microsoft.Data.Sqlite.dll">
+      <PackagePath>Microsoft.Data.Sqlite.dll</PackagePath>
+      <Modified>2023-10-23T18:28:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\microsoft.entityframeworkcore\7.0.14\lib\net6.0\Microsoft.EntityFrameworkCore.dll">
+      <PackagePath>Microsoft.EntityFrameworkCore.dll</PackagePath>
+      <Modified>2023-10-23T18:27:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\microsoft.entityframeworkcore.abstractions\7.0.14\lib\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <PackagePath>Microsoft.EntityFrameworkCore.Abstractions.dll</PackagePath>
+      <Modified>2023-10-23T18:27:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\microsoft.entityframeworkcore.relational\7.0.14\lib\net6.0\Microsoft.EntityFrameworkCore.Relational.dll">
+      <PackagePath>Microsoft.EntityFrameworkCore.Relational.dll</PackagePath>
+      <Modified>2023-10-23T18:28:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\microsoft.entityframeworkcore.sqlite.core\7.0.14\lib\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll">
+      <PackagePath>Microsoft.EntityFrameworkCore.Sqlite.dll</PackagePath>
+      <Modified>2023-10-23T18:28:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\microsoft.extensions.caching.abstractions\7.0.0\lib\net7.0\Microsoft.Extensions.Caching.Abstractions.dll">
+      <PackagePath>Microsoft.Extensions.Caching.Abstractions.dll</PackagePath>
+      <Modified>2022-10-18T16:15:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\microsoft.extensions.caching.memory\7.0.0\lib\net7.0\Microsoft.Extensions.Caching.Memory.dll">
+      <PackagePath>Microsoft.Extensions.Caching.Memory.dll</PackagePath>
+      <Modified>2022-10-18T16:15:48.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\microsoft.extensions.configuration\7.0.0\lib\net7.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
       <Modified>2022-10-18T16:15:22.000</Modified>
@@ -864,6 +904,10 @@
     <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\7.0.0\lib\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll">
       <PackagePath>Microsoft.Extensions.DependencyInjection.Abstractions.dll</PackagePath>
       <Modified>2022-10-18T16:15:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\microsoft.extensions.dependencymodel\7.0.0\lib\net7.0\Microsoft.Extensions.DependencyModel.dll">
+      <PackagePath>Microsoft.Extensions.DependencyModel.dll</PackagePath>
+      <Modified>2022-10-18T16:15:30.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\microsoft.extensions.fileproviders.abstractions\7.0.0\lib\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll">
       <PackagePath>Microsoft.Extensions.FileProviders.Abstractions.dll</PackagePath>
@@ -977,6 +1021,42 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
       <Modified>2022-11-08T19:31:22.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\sqlite-net-pcl\1.8.116\lib\netstandard2.0\SQLite-net.dll">
+      <PackagePath>SQLite-net.dll</PackagePath>
+      <Modified>2021-09-02T21:04:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\sqlitepclraw.bundle_e_sqlite3\2.1.4\lib\netstandard2.0\SQLitePCLRaw.batteries_v2.dll">
+      <PackagePath>SQLitePCLRaw.batteries_v2.dll</PackagePath>
+      <Modified>2023-01-10T20:21:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\sqlitepclraw.bundle_green\2.0.4\lib\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll">
+      <PackagePath>SQLitePCLRaw.nativelibrary.dll</PackagePath>
+      <Modified>2020-09-03T17:13:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\sqlitepclraw.core\2.1.4\lib\netstandard2.0\SQLitePCLRaw.core.dll">
+      <PackagePath>SQLitePCLRaw.core.dll</PackagePath>
+      <Modified>2023-01-10T20:18:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\sqlitepclraw.provider.dynamic_cdecl\2.0.4\lib\netstandard2.0\SQLitePCLRaw.provider.dynamic_cdecl.dll">
+      <PackagePath>SQLitePCLRaw.provider.dynamic_cdecl.dll</PackagePath>
+      <Modified>2020-09-03T17:13:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\sqlitepclraw.provider.e_sqlite3\2.1.4\lib\net6.0-windows7.0\SQLitePCLRaw.provider.e_sqlite3.dll">
+      <PackagePath>SQLitePCLRaw.provider.e_sqlite3.dll</PackagePath>
+      <Modified>2023-01-10T20:18:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\sqlitepclrawex.bundle_green\2.1.0\lib\netstandard2.0\SQLitePCLRawEx.batteries_v2.dll">
+      <PackagePath>SQLitePCLRawEx.batteries_v2.dll</PackagePath>
+      <Modified>2022-08-01T05:21:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\sqlitepclrawex.core\2.1.0\lib\netstandard2.0\SQLitePCLRawEx.core.dll">
+      <PackagePath>SQLitePCLRawEx.core.dll</PackagePath>
+      <Modified>2022-08-01T05:19:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\sqlitepclrawex.provider.e_sqlite3\2.1.0\lib\net6.0-windows7.0\SQLitePCLRawEx.provider.e_sqlite3.dll">
+      <PackagePath>SQLitePCLRawEx.provider.e_sqlite3.dll</PackagePath>
+      <Modified>2022-08-01T05:19:44.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\system.io.pipelines\7.0.0\lib\net7.0\System.IO.Pipelines.dll">
       <PackagePath>System.IO.Pipelines.dll</PackagePath>
       <Modified>2022-10-18T16:15:28.000</Modified>
@@ -988,6 +1068,34 @@
     <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\microsoft.windowsappsdk\1.2.221209.1\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2022-11-08T19:31:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.1.4\runtimes\win-x64\native\e_sqlite3.dll">
+      <PackagePath>e_sqlite3.dll</PackagePath>
+      <Modified>2023-01-10T20:13:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\InventoryLibrary\bin\Debug\net7.0\InventoryLibrary.dll">
+      <PackagePath>InventoryLibrary.dll</PackagePath>
+      <Modified>2023-11-30T23:51:40.769</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\InventoryBrowser.Maui.deps.json">
+      <PackagePath>InventoryBrowser.Maui.deps.json</PackagePath>
+      <Modified>2023-11-30T23:53:52.314</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\humanizer.core\2.14.1\lib\net6.0\Humanizer.dll">
+      <PackagePath>Humanizer.dll</PackagePath>
+      <Modified>2022-01-29T15:04:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\microsoft.entityframeworkcore.design\7.0.14\lib\net6.0\Microsoft.EntityFrameworkCore.Design.dll">
+      <PackagePath>Microsoft.EntityFrameworkCore.Design.dll</PackagePath>
+      <Modified>2023-10-23T18:28:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\mono.texttemplating\2.2.1\lib\netstandard2.0\Mono.TextTemplating.dll">
+      <PackagePath>Mono.TextTemplating.dll</PackagePath>
+      <Modified>2021-02-23T03:04:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\system.codedom\4.4.0\lib\netstandard2.0\System.CodeDom.dll">
+      <PackagePath>System.CodeDom.dll</PackagePath>
+      <Modified>2017-07-19T10:01:30.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\microsoft.maui.controls.ref.win\7.0.92\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1007,11 +1115,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\InventoryBrowser.Maui.styles.css">
       <PackagePath>wwwroot\InventoryBrowser.Maui.styles.css</PackagePath>
-      <Modified>2023-11-30T04:46:20.484</Modified>
+      <Modified>2023-11-30T23:51:05.716</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\InventoryBrowser.Maui.bundle.scp.css">
       <PackagePath>wwwroot\InventoryBrowser.Maui.bundle.scp.css</PackagePath>
-      <Modified>2023-11-30T04:46:20.485</Modified>
+      <Modified>2023-11-30T23:51:05.723</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\wwwroot\appsettings.json">
+      <PackagePath>wwwroot\appsettings.json</PackagePath>
+      <Modified>2023-11-30T17:04:56.411</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\wwwroot\css\app.css">
       <PackagePath>wwwroot\css\app.css</PackagePath>
@@ -1079,231 +1191,231 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2023-11-30T04:46:20.476</Modified>
+      <Modified>2023-11-30T23:51:08.541</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2023-11-30T04:46:20.477</Modified>
+      <Modified>2023-11-30T23:51:08.574</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2023-11-30T04:46:20.478</Modified>
+      <Modified>2023-11-30T23:51:08.617</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2023-11-30T04:46:20.479</Modified>
+      <Modified>2023-11-30T23:51:08.677</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2023-11-30T04:46:20.480</Modified>
+      <Modified>2023-11-30T23:51:08.931</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2023-11-30T04:46:20.383</Modified>
+      <Modified>2023-11-30T04:46:16.271</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-11-30T04:46:45.667</Modified>
+      <Modified>2023-11-30T23:51:09.094</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-11-30T04:46:46.155</Modified>
+      <Modified>2023-11-30T23:51:09.807</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-11-30T04:46:46.176</Modified>
+      <Modified>2023-11-30T23:51:09.829</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-11-30T04:46:46.194</Modified>
+      <Modified>2023-11-30T23:51:09.848</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-11-30T04:46:46.226</Modified>
+      <Modified>2023-11-30T23:51:09.875</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-11-30T04:46:46.332</Modified>
+      <Modified>2023-11-30T23:51:10.008</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.836</Modified>
+      <Modified>2023-11-30T23:51:09.351</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.841</Modified>
+      <Modified>2023-11-30T23:51:09.368</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.866</Modified>
+      <Modified>2023-11-30T23:51:09.406</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.847</Modified>
+      <Modified>2023-11-30T23:51:09.378</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.852</Modified>
+      <Modified>2023-11-30T23:51:09.388</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.797</Modified>
+      <Modified>2023-11-30T23:51:09.276</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.803</Modified>
+      <Modified>2023-11-30T23:51:09.288</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.832</Modified>
+      <Modified>2023-11-30T23:51:09.333</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.810</Modified>
+      <Modified>2023-11-30T23:51:09.297</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.819</Modified>
+      <Modified>2023-11-30T23:51:09.308</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.704</Modified>
+      <Modified>2023-11-30T23:51:09.128</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.717</Modified>
+      <Modified>2023-11-30T23:51:09.142</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.725</Modified>
+      <Modified>2023-11-30T23:51:09.159</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.733</Modified>
+      <Modified>2023-11-30T23:51:09.174</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.744</Modified>
+      <Modified>2023-11-30T23:51:09.194</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.752</Modified>
+      <Modified>2023-11-30T23:51:09.204</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.761</Modified>
+      <Modified>2023-11-30T23:51:09.214</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.790</Modified>
+      <Modified>2023-11-30T23:51:09.263</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.769</Modified>
+      <Modified>2023-11-30T23:51:09.235</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.777</Modified>
+      <Modified>2023-11-30T23:51:09.245</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.953</Modified>
+      <Modified>2023-11-30T23:51:09.529</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.964</Modified>
+      <Modified>2023-11-30T23:51:09.551</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.975</Modified>
+      <Modified>2023-11-30T23:51:09.577</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.991</Modified>
+      <Modified>2023-11-30T23:51:09.602</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-11-30T04:46:46.019</Modified>
+      <Modified>2023-11-30T23:51:09.636</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.906</Modified>
+      <Modified>2023-11-30T23:51:09.472</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.913</Modified>
+      <Modified>2023-11-30T23:51:09.478</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.920</Modified>
+      <Modified>2023-11-30T23:51:09.487</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.927</Modified>
+      <Modified>2023-11-30T23:51:09.496</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.943</Modified>
+      <Modified>2023-11-30T23:51:09.514</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.871</Modified>
+      <Modified>2023-11-30T23:51:09.415</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.877</Modified>
+      <Modified>2023-11-30T23:51:09.428</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.883</Modified>
+      <Modified>2023-11-30T23:51:09.438</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.890</Modified>
+      <Modified>2023-11-30T23:51:09.447</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-11-30T04:46:45.899</Modified>
+      <Modified>2023-11-30T23:51:09.462</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-11-30T04:46:46.030</Modified>
+      <Modified>2023-11-30T23:51:09.654</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-11-30T04:46:46.040</Modified>
+      <Modified>2023-11-30T23:51:09.668</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-11-30T04:46:46.057</Modified>
+      <Modified>2023-11-30T23:51:09.686</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-11-30T04:46:46.078</Modified>
+      <Modified>2023-11-30T23:51:09.710</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-11-30T04:46:46.137</Modified>
+      <Modified>2023-11-30T23:51:09.783</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-11-30T04:46:20.433</Modified>
+      <Modified>2023-11-30T23:51:09.217</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-11-30T04:46:20.434</Modified>
+      <Modified>2023-11-30T23:51:09.245</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-11-30T04:46:20.435</Modified>
+      <Modified>2023-11-30T23:51:09.275</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-11-30T04:46:20.436</Modified>
+      <Modified>2023-11-30T23:51:09.325</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-11-30T04:46:20.437</Modified>
+      <Modified>2023-11-30T23:51:09.423</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-100.png">
       <PackagePath>logo.scale-100.png</PackagePath>

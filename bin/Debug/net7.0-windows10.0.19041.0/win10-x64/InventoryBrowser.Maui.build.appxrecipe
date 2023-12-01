@@ -37,8 +37,17 @@
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>InventoryBrowser.Maui.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\InventoryBrowser.Maui.deps.json">
-      <PackagePath>InventoryBrowser.Maui.deps.json</PackagePath>
+    <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\InventoryLibrary\bin\Debug\net7.0\InventoryLibrary.deps.json">
+      <PackagePath>InventoryLibrary\bin\Debug\net7.0\InventoryLibrary.deps.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\InventoryLibrary\bin\Debug\net7.0\InventoryLibrary.runtimeconfig.json">
+      <PackagePath>InventoryLibrary\bin\Debug\net7.0\InventoryLibrary.runtimeconfig.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\InventoryLibrary\obj\InventoryLibrary.csproj.nuget.dgspec.json">
+      <PackagePath>InventoryLibrary\obj\InventoryLibrary.csproj.nuget.dgspec.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\InventoryLibrary\obj\project.assets.json">
+      <PackagePath>InventoryLibrary\obj\project.assets.json</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.9\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -628,6 +637,27 @@
     <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\microsoft.aspnetcore.metadata\7.0.0\lib\net7.0\Microsoft.AspNetCore.Metadata.dll">
       <PackagePath>Microsoft.AspNetCore.Metadata.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\microsoft.data.sqlite.core\7.0.14\lib\net6.0\Microsoft.Data.Sqlite.dll">
+      <PackagePath>Microsoft.Data.Sqlite.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\microsoft.entityframeworkcore\7.0.14\lib\net6.0\Microsoft.EntityFrameworkCore.dll">
+      <PackagePath>Microsoft.EntityFrameworkCore.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\microsoft.entityframeworkcore.abstractions\7.0.14\lib\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <PackagePath>Microsoft.EntityFrameworkCore.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\microsoft.entityframeworkcore.relational\7.0.14\lib\net6.0\Microsoft.EntityFrameworkCore.Relational.dll">
+      <PackagePath>Microsoft.EntityFrameworkCore.Relational.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\microsoft.entityframeworkcore.sqlite.core\7.0.14\lib\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll">
+      <PackagePath>Microsoft.EntityFrameworkCore.Sqlite.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\microsoft.extensions.caching.abstractions\7.0.0\lib\net7.0\Microsoft.Extensions.Caching.Abstractions.dll">
+      <PackagePath>Microsoft.Extensions.Caching.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\microsoft.extensions.caching.memory\7.0.0\lib\net7.0\Microsoft.Extensions.Caching.Memory.dll">
+      <PackagePath>Microsoft.Extensions.Caching.Memory.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\microsoft.extensions.configuration\7.0.0\lib\net7.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
     </AppxPackagedFile>
@@ -648,6 +678,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\7.0.0\lib\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll">
       <PackagePath>Microsoft.Extensions.DependencyInjection.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\microsoft.extensions.dependencymodel\7.0.0\lib\net7.0\Microsoft.Extensions.DependencyModel.dll">
+      <PackagePath>Microsoft.Extensions.DependencyModel.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\microsoft.extensions.fileproviders.abstractions\7.0.0\lib\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll">
       <PackagePath>Microsoft.Extensions.FileProviders.Abstractions.dll</PackagePath>
@@ -733,6 +766,33 @@
     <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\microsoft.windowsappsdk\1.2.221209.1\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\sqlite-net-pcl\1.8.116\lib\netstandard2.0\SQLite-net.dll">
+      <PackagePath>SQLite-net.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\sqlitepclraw.bundle_e_sqlite3\2.1.4\lib\netstandard2.0\SQLitePCLRaw.batteries_v2.dll">
+      <PackagePath>SQLitePCLRaw.batteries_v2.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\sqlitepclraw.bundle_green\2.0.4\lib\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll">
+      <PackagePath>SQLitePCLRaw.nativelibrary.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\sqlitepclraw.core\2.1.4\lib\netstandard2.0\SQLitePCLRaw.core.dll">
+      <PackagePath>SQLitePCLRaw.core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\sqlitepclraw.provider.dynamic_cdecl\2.0.4\lib\netstandard2.0\SQLitePCLRaw.provider.dynamic_cdecl.dll">
+      <PackagePath>SQLitePCLRaw.provider.dynamic_cdecl.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\sqlitepclraw.provider.e_sqlite3\2.1.4\lib\net6.0-windows7.0\SQLitePCLRaw.provider.e_sqlite3.dll">
+      <PackagePath>SQLitePCLRaw.provider.e_sqlite3.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\sqlitepclrawex.bundle_green\2.1.0\lib\netstandard2.0\SQLitePCLRawEx.batteries_v2.dll">
+      <PackagePath>SQLitePCLRawEx.batteries_v2.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\sqlitepclrawex.core\2.1.0\lib\netstandard2.0\SQLitePCLRawEx.core.dll">
+      <PackagePath>SQLitePCLRawEx.core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\sqlitepclrawex.provider.e_sqlite3\2.1.0\lib\net6.0-windows7.0\SQLitePCLRawEx.provider.e_sqlite3.dll">
+      <PackagePath>SQLitePCLRawEx.provider.e_sqlite3.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\system.io.pipelines\7.0.0\lib\net7.0\System.IO.Pipelines.dll">
       <PackagePath>System.IO.Pipelines.dll</PackagePath>
     </AppxPackagedFile>
@@ -741,6 +801,27 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\microsoft.windowsappsdk\1.2.221209.1\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.1.4\runtimes\win-x64\native\e_sqlite3.dll">
+      <PackagePath>e_sqlite3.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\InventoryLibrary\bin\Debug\net7.0\InventoryLibrary.dll">
+      <PackagePath>InventoryLibrary.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\InventoryBrowser.Maui.deps.json">
+      <PackagePath>InventoryBrowser.Maui.deps.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\humanizer.core\2.14.1\lib\net6.0\Humanizer.dll">
+      <PackagePath>Humanizer.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\microsoft.entityframeworkcore.design\7.0.14\lib\net6.0\Microsoft.EntityFrameworkCore.Design.dll">
+      <PackagePath>Microsoft.EntityFrameworkCore.Design.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\mono.texttemplating\2.2.1\lib\netstandard2.0\Mono.TextTemplating.dll">
+      <PackagePath>Mono.TextTemplating.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\system.codedom\4.4.0\lib\netstandard2.0\System.CodeDom.dll">
+      <PackagePath>System.CodeDom.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\.nuget\packages\microsoft.maui.controls.ref.win\7.0.92\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -760,6 +841,9 @@
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\InventoryBrowser.Maui.bundle.scp.css">
       <PackagePath>wwwroot\InventoryBrowser.Maui.bundle.scp.css</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\wwwroot\appsettings.json">
+      <PackagePath>wwwroot\appsettings.json</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\wwwroot\css\app.css">
       <PackagePath>wwwroot\css\app.css</PackagePath>
     </AppxPackagedFile>
@@ -768,6 +852,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\wwwroot\css\bootstrap\bootstrap.min.css.map">
       <PackagePath>wwwroot\css\bootstrap\bootstrap.min.css.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\wwwroot\css\open-iconic\FONT-LICENSE">
+      <PackagePath>wwwroot\css\open-iconic\FONT-LICENSE</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css">
       <PackagePath>wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css</PackagePath>
@@ -786,9 +873,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\wwwroot\css\open-iconic\font\fonts\open-iconic.woff">
       <PackagePath>wwwroot\css\open-iconic\font\fonts\open-iconic.woff</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\wwwroot\css\open-iconic\FONT-LICENSE">
-      <PackagePath>wwwroot\css\open-iconic\FONT-LICENSE</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\m0mon\CapstoneC#2023\wwwroot\css\open-iconic\ICON-LICENSE">
       <PackagePath>wwwroot\css\open-iconic\ICON-LICENSE</PackagePath>

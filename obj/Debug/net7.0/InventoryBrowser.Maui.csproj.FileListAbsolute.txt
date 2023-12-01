@@ -1,0 +1,6 @@
+C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0\InventoryBrowser.Maui.csproj.AssemblyReference.cache
+C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0\InventoryBrowser.Maui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0\InventoryBrowser.Maui.AssemblyInfoInputs.cache
+C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0\InventoryBrowser.Maui.AssemblyInfo.cs
+C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0\InventoryBrowser.Maui.csproj.CoreCompileInputs.cache
+C:\Users\m0mon\CapstoneC#2023\obj\Debug\net7.0\InventoryBrowser.Maui.MvcApplicationPartsAssemblyInfo.cache

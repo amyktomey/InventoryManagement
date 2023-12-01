@@ -3,6 +3,7 @@ using Microsoft.Extensions.Logging;
 
 namespace InventoryBrowser.Maui;
 
+
 public static class MauiProgram
 {
 	public static MauiApp CreateMauiApp()

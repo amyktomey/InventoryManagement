@@ -1,3 +1,7 @@
+InventoryLibrary\bin\Debug\net7.0\InventoryLibrary.deps.json
+InventoryLibrary\bin\Debug\net7.0\InventoryLibrary.runtimeconfig.json
+InventoryLibrary\obj\InventoryLibrary.csproj.nuget.dgspec.json
+InventoryLibrary\obj\project.assets.json
 OpenSans-Regular.ttf
 appicon.ico
 appiconLargeTile.scale-100.png
@@ -61,16 +65,17 @@ wwwroot\InventoryBrowser.Maui.bundle.scp.css
 AboutAssets.txt
 Shared\MainLayout.razor.css
 Shared\NavMenu.razor.css
+wwwroot\appsettings.json
 wwwroot\css\app.css
 wwwroot\css\bootstrap\bootstrap.min.css
 wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\css\open-iconic\FONT-LICENSE
 wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css
 wwwroot\css\open-iconic\font\fonts\open-iconic.eot
 wwwroot\css\open-iconic\font\fonts\open-iconic.otf
 wwwroot\css\open-iconic\font\fonts\open-iconic.svg
 wwwroot\css\open-iconic\font\fonts\open-iconic.ttf
 wwwroot\css\open-iconic\font\fonts\open-iconic.woff
-wwwroot\css\open-iconic\FONT-LICENSE
 wwwroot\css\open-iconic\ICON-LICENSE
 wwwroot\css\open-iconic\README.md
 wwwroot\favicon.ico

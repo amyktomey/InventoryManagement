@@ -4,6 +4,8 @@ VisualStudioVersion = 17.0.31611.283
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InventoryBrowser.Maui", "InventoryBrowser.Maui.csproj", "{D19ECFE5-DB6A-4B93-B4E4-380699F468C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryLibrary", "InventoryLibrary\InventoryLibrary.csproj", "{7E3DF16A-097D-4C95-A790-0BB29D27AA3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -16,12 +18,16 @@ Global
 		{D19ECFE5-DB6A-4B93-B4E4-380699F468C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D19ECFE5-DB6A-4B93-B4E4-380699F468C0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D19ECFE5-DB6A-4B93-B4E4-380699F468C0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{7E3DF16A-097D-4C95-A790-0BB29D27AA3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E3DF16A-097D-4C95-A790-0BB29D27AA3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E3DF16A-097D-4C95-A790-0BB29D27AA3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E3DF16A-097D-4C95-A790-0BB29D27AA3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		        SolutionGuid = {61F7FB11-1E47-470C-91E2-47F8143E1572}
 		SolutionGuid = {A2D34203-9561-4D8E-9402-61187AA3CB7F}
+		        SolutionGuid = {61F7FB11-1E47-470C-91E2-47F8143E1572}
 	EndGlobalSection
 EndGlobal
