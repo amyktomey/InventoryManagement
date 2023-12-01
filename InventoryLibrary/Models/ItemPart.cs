@@ -1,4 +1,4 @@
-﻿namespace InventoryLibrary.Maui.Models
+﻿namespace InventoryLibrary.Models
 {
 
     public class ItemPart
