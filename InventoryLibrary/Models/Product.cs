@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
-
-namespace InventoryLibrary.Maui;
+﻿namespace InventoryLibrary.Maui;
 
 public class Product
 {

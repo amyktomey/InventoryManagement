@@ -1,7 +1,8 @@
-﻿using InventoryLibrary.Maui.Models;
+﻿using InventoryLibrary.Maui;
+using InventoryLibrary.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace InventoryLibrary.Maui.Data;
+namespace InventoryLibrary.Data;
 public class ProductContext : DbContext
 {
     public DbSet<Product>? Products { get; set; }
